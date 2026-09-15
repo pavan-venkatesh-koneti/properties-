@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://wallpapercave.com/wp/wp3170346.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(54, 35, 38);
+    text-shadow: 6px 8px 5px rgb(9, 9, 9);
+    text-indent: -10%;
+
+}
+.c1{
+    height: 230px;
+    width: 300px;
+    background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2024/10/naruto-uzumaki-3.jpg?w=1200&h=675&fit=crop");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 7px 7px 10px rgb(211, 17, 17);
+    background-position: right;
+    padding-left: 40px;
+    
+}
+
+.c2{
+    height: 230px;
+    width: 300px;
+    /* background-color: violet; */
+    background-image: url("https://preview.redd.it/naruto-uzumaki-so6p-vs-dms-kakashi-hatake-who-wins-in-an-v0-0js99hlkc0nd1.jpg?width=602&format=pjpg&auto=webp&s=0eb1171562cdfca90a69687c109609974394ca1e");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 7px 7px 10px crimson;
+    background-position: right;
+    
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    
+}
+
+
+.c3{
+        height: 230px;
+    width: 300px;
+    /* background-color: violet; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCeryGR8LN88O58H-quIJTOkVClsMgnz495Xa26jUQfWbIfy3o38lOq4T&s=10");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 7px 7px 10px crimson;
+    background-position: right;
+    
+    position: absolute;
+    top: 250px;
+    left: 35%;
+    
+}
+
+.c4{
+    height: 230px;
+    width: 300px;
+    background-image: url("https://i.pinimg.com/736x/33/29/9f/33299fa56af8052a8d8ec22ce5cd6805.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 7px 7px 10px crimson;
+    position: absolute;
+    top: 360px;
+    left: 20px;
+    
+}
+
+.c5{
+    height: 230px;
+    width: 300px;
+    background-image: url("https://i0.wp.com/www.bgeekyblog.com/wp-content/uploads/2016/06/uchiha-madara-arrives.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 7px 7px 10px crimson;
+    background-color: violet;
+    position: absolute;
+    top: 360px;
+    right: 20px;
+}
